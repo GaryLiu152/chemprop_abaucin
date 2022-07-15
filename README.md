@@ -9,7 +9,7 @@ The latest and up-to-date chemprop project can be found [here](https://github.co
 >conda env create -f environment.yml
 >conda activate chemprop
 >pip install -e .
-```
+>```
 
 
 
