@@ -11,6 +11,19 @@ The latest and up-to-date chemprop project can be found [here](https://github.co
 >pip install -e .
 >```
 
+## Training
+A model similar to that used to preduact Abaucin can be found **HERE** .
+
+If you wish to train a new model on different data, continue on here, replacing paths where appropriate. 
+
+If you wish to use the model to predict for antimicrobial activities on other data sets, move to the Prediction subheader. Training data for this data set is made available in the supplementary section of the paper[^1]. 
+
+
+
+
+## Prediction
+
+## Additional Tools
 
 
 
