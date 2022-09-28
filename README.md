@@ -12,7 +12,7 @@ The latest and up-to-date chemprop project can be found [here](https://github.co
 >```
 
 ## Training
-A model similar to that used to preduact Abaucin can be found **HERE** .
+A model similar to that used to predict Abaucin can be found [**here**](models/final_model).
 
 If you wish to train a new model on different data, continue on here, replacing paths where appropriate. 
 
