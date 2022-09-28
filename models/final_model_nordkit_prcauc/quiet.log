@@ -1,0 +1,84 @@
+Fold 0
+Model 0 best validation auc = 0.844337 on epoch 17
+Model 0 test auc = 0.783193
+Model 0 test prc-auc = 0.213066
+Ensemble test auc = 0.783193
+Ensemble test prc-auc = 0.213066
+Fold 1
+Model 0 best validation auc = 0.789509 on epoch 13
+Model 0 test auc = 0.819775
+Model 0 test prc-auc = 0.341094
+Ensemble test auc = 0.819775
+Ensemble test prc-auc = 0.341094
+Fold 2
+Model 0 best validation auc = 0.723920 on epoch 22
+Model 0 test auc = 0.763153
+Model 0 test prc-auc = 0.311858
+Ensemble test auc = 0.763153
+Ensemble test prc-auc = 0.311858
+Fold 3
+Model 0 best validation auc = 0.793176 on epoch 5
+Model 0 test auc = 0.688952
+Model 0 test prc-auc = 0.262432
+Ensemble test auc = 0.688952
+Ensemble test prc-auc = 0.262432
+Fold 4
+Model 0 best validation auc = 0.750899 on epoch 14
+Model 0 test auc = 0.743759
+Model 0 test prc-auc = 0.192726
+Ensemble test auc = 0.743759
+Ensemble test prc-auc = 0.192726
+Fold 5
+Model 0 best validation auc = 0.836911 on epoch 20
+Model 0 test auc = 0.705045
+Model 0 test prc-auc = 0.212274
+Ensemble test auc = 0.705045
+Ensemble test prc-auc = 0.212274
+Fold 6
+Model 0 best validation auc = 0.821689 on epoch 20
+Model 0 test auc = 0.832760
+Model 0 test prc-auc = 0.418009
+Ensemble test auc = 0.832760
+Ensemble test prc-auc = 0.418009
+Fold 7
+Model 0 best validation auc = 0.695289 on epoch 15
+Model 0 test auc = 0.802069
+Model 0 test prc-auc = 0.261410
+Ensemble test auc = 0.802069
+Ensemble test prc-auc = 0.261410
+Fold 8
+Model 0 best validation auc = 0.760698 on epoch 28
+Model 0 test auc = 0.686402
+Model 0 test prc-auc = 0.180113
+Ensemble test auc = 0.686402
+Ensemble test prc-auc = 0.180113
+Fold 9
+Model 0 best validation auc = 0.780202 on epoch 20
+Model 0 test auc = 0.736450
+Model 0 test prc-auc = 0.266735
+Ensemble test auc = 0.736450
+Ensemble test prc-auc = 0.266735
+10-fold cross validation
+	Seed 0 ==> test auc = 0.783193
+	Seed 0 ==> test prc-auc = 0.213066
+	Seed 1 ==> test auc = 0.819775
+	Seed 1 ==> test prc-auc = 0.341094
+	Seed 2 ==> test auc = 0.763153
+	Seed 2 ==> test prc-auc = 0.311858
+	Seed 3 ==> test auc = 0.688952
+	Seed 3 ==> test prc-auc = 0.262432
+	Seed 4 ==> test auc = 0.743759
+	Seed 4 ==> test prc-auc = 0.192726
+	Seed 5 ==> test auc = 0.705045
+	Seed 5 ==> test prc-auc = 0.212274
+	Seed 6 ==> test auc = 0.832760
+	Seed 6 ==> test prc-auc = 0.418009
+	Seed 7 ==> test auc = 0.802069
+	Seed 7 ==> test prc-auc = 0.261410
+	Seed 8 ==> test auc = 0.686402
+	Seed 8 ==> test prc-auc = 0.180113
+	Seed 9 ==> test auc = 0.736450
+	Seed 9 ==> test prc-auc = 0.266735
+Overall test auc = 0.756156 +/- 0.050339
+Overall test prc-auc = 0.265972 +/- 0.070226
+Elapsed time = 0:16:08
