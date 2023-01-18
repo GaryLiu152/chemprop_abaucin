@@ -4,12 +4,7 @@ The latest and up-to-date chemprop project can be found [here](https://github.co
 
 ## Installation
 
->```git clone https://github.com/chemprop/chemprop.git
->cd chemprop
->conda env create -f environment.yml
->conda activate chemprop
->pip install -e .
->```
+By clicking [**here**](chemprop_abaucin/chemprop) to the chemprop subdirectory, detailed instructions on the installation of chemprop can be found. Specfically, we stalled via source for this project.
 
 ## Training
 A model similar to that used to predict Abaucin can be found [**here**](models/final_model).
@@ -22,7 +17,7 @@ If you wish to use the model to predict for antimicrobial activities on other da
 
 
 ## Prediction
-Activity scores produced by the model were used as the main method of prioritizing molecules. 
+Activity scores produced by the model were used as the main method of prioritizing molecules. In the paper described, we used the Broad Drug Repurposing Hub as a prediction set (raw data [**here**](data/Broad_DRH_smiles.csv). 
 
 ## Additional Tools
 
