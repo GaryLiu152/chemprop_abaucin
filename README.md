@@ -13,6 +13,12 @@ If you wish to train a new model on different data, continue on here, replacing 
 
 If you wish to use the model to predict for antimicrobial activities on other data sets, move to the Prediction subheader. Training data for this data set is made available in the supplementary section of the paper[^1]. 
 
+Using the given data sets as an example, to train a baseline Chemprop model with ensembling, use the following while in the chemprop conda environment.
+```chemprop_train --data_path```
+
+To train a Chemprop model supplemented by additional RDKit Features, use:
+```TODO ```
+
 
 
 
