@@ -4,7 +4,7 @@ The latest and up-to-date chemprop project can be found [here](https://github.co
 
 ## Installation
 
-By clicking [**here**](/hemprop) to the chemprop subdirectory, detailed instructions on the installation of chemprop can be found. Specfically, we stalled via source for this project.
+By clicking [**here**](/chemprop) to the chemprop subdirectory, detailed instructions on the installation of chemprop can be found. Specfically, we stalled via source for this project.
 
 ## Training
 A model similar to that used to predict Abaucin can be found [**here**](models/final_model).
