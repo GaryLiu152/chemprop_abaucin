@@ -14,8 +14,8 @@ If you wish to train a new model on different data, continue on here, replacing 
 If you wish to use the model to predict for antimicrobial activities on other data sets, move to the Prediction subheader. Training data for this data set is made available in the supplementary section of the paper[^1]. 
 
 Using the given data sets as an example, to train a Chemprop model with ensembling and RDKit global features, use the following command while in the chemprop conda environment.
-```chemprop_train --data_path data/Final_training_set.csv --features_generator rdkit_2d_normalized --no_features_scaling --target_columns Activity --dataset_type classification --split_type cv --save_dir models/custom```
 
+```chemprop_train --data_path data/Final_training_set.csv --features_generator rdkit_2d_normalized --no_features_scaling --target_columns Activity --dataset_type classification --split_type cv --save_dir models/custom```
 
 
 ## Prediction
@@ -23,7 +23,7 @@ Activity scores produced by the model were used as the main method of prioritizi
 
 To perform predictions on this set using models found in the paper:
 
-```chemprop_predict --test_path data/Broad_DRH_smiles.csv --checkpoint_dir models/final_model --preds_path data/predictions.csv --features_generator rdkit_2d_normalized --no_features_scaling````
+```chemprop_predict --test_path data/Broad_DRH_smiles.csv --checkpoint_dir models/final_model --preds_path data/predictions.csv --features_generator rdkit_2d_normalized --no_features_scaling```
 
 ## Additional Tools
 ### Tanimoto Nearest Neighbor Calculations
