@@ -17,6 +17,8 @@ Using the given data sets as an example, to train a Chemprop model with ensembli
 
 ```chemprop_train --data_path data/Final_training_set.csv --features_generator rdkit_2d_normalized --no_features_scaling --target_columns Activity --dataset_type classification --split_type cv --save_dir models/custom```
 
+Details of used parameters can be found in the documentation of the main Chemprop repository. 
+
 
 ## Prediction
 Activity scores produced by the model were used as the main method of prioritizing molecules. In the paper described, we used the Broad Drug Repurposing Hub as a prediction set (raw data [**here**](data/Broad_DRH_smiles.csv)).
