@@ -36,6 +36,6 @@ Tanimoto similarity calculations are performed using Morgan fingerprints (bits =
 
 
 
-[^1]: Currently under review. Link and doi of the paper will be updated as soon as it is available. 
+[^1]: [Liu, G., Catacutan, D.B., Rathod, K. et al. Deep learning-guided discovery of an antibiotic targeting Acinetobacter baumannii. Nat Chem Biol (2023). https://doi.org/10.1038/s41589-023-01349-8](https://www.nature.com/articles/s41589-023-01349-8)
 
 *Data files may need additional manual processing such as header removal or binarization to be correctly formatted for the code.
